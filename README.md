@@ -37,11 +37,14 @@
 ```
 
 ## HTML
+```html
 <div block-ui item="object">
                ...
 </div>
+```
 
 ## CSS
+```css
 .busy-ui {
   position: absolute;
   top: 0;
@@ -87,3 +90,4 @@
     transform: rotate(360deg);
   }
 }
+```
