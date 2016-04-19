@@ -1,4 +1,5 @@
 # UIBlock-directive
+Set value of yourObject.loading to true to set block busy 
 
 ## JS
 ```javascript
