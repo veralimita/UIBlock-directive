@@ -1,6 +1,7 @@
 # UIBlock-directive
 
 ## JS
+```javascript
 (function () {
     var app = angular.module('app');
    app.directive('blockUi', ['$document', '$interval', function ($document, $interval) {
@@ -33,6 +34,7 @@
         };
     }]);
 })();
+```
 
 ## HTML
 <div block-ui item="object">
